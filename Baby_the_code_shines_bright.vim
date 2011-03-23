@@ -86,8 +86,8 @@ hi rubyRailsMethod  guifg=#de99bf ctermfg=175 guibg=NONE gui=NONE
 hi erubyDelimiter  guifg=NONE guibg=NONE gui=NONE
 hi erubyComment  guifg=#4d605f ctermfg=240 guibg=NONE gui=NONE
 hi erubyRailsMethod  guifg=#de99bf ctermfg=175 guibg=NONE gui=NONE
-hi htmlTag  guifg=#d99ed1 ctermfg=182 guibg=NONE gui=NONE
-hi htmlEndTag  guifg=#d99ed1 ctermfg=182 guibg=NONE gui=NONE
+hi htmlTag guifg=#f6f6f6 ctermfg=15 guibg=NONE gui=NONE
+hi htmlEndTag  guifg=#f6f6f6 ctermfg=15 guibg=NONE gui=NONE
 hi htmlTagName  guifg=#d99ed1 ctermfg=182 guibg=NONE gui=NONE
 hi htmlArg  guifg=#d99ed1 ctermfg=182 guibg=NONE gui=NONE
 hi htmlSpecialChar  guifg=#bff294 ctermfg=156 guibg=NONE gui=NONE

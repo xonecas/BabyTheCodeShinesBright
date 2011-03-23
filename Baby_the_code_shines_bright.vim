@@ -42,11 +42,12 @@ hi ErrorMsg  guifg=NONE guibg=NONE gui=NONE
 hi WarningMsg  guifg=NONE guibg=NONE gui=NONE
 hi Float  guifg=#bff294 ctermfg=156 guibg=NONE gui=NONE
 hi Function  guifg=#d99ed1 ctermfg=182 guibg=NONE gui=NONE
-hi Identifier  guifg=NONE guibg=NONE gui=NONE
+hi Identifier  guifg=#d99ed1 ctermfg=182 guibg=NONE gui=NONE
 hi Keyword  guifg=#94579e ctermfg=97 guibg=NONE gui=NONE
 hi Label  guifg=#61c8c3 ctermfg=79 guibg=NONE gui=NONE
 hi NonText  guifg=#404040 ctermfg=238 guibg=#363636 ctermbg=237 gui=NONE
 hi Number  guifg=#bff294 ctermfg=156 guibg=NONE gui=NONE
+hi javaScriptNumber  guifg=#bff294 ctermfg=156 guibg=NONE gui=NONE
 hi Operator  guifg=#94579e ctermfg=97 guibg=NONE gui=NONE
 hi PreProc  guifg=#94579e ctermfg=97 guibg=NONE gui=NONE
 hi Special  guifg=#f6f6f6 ctermfg=15 guibg=NONE gui=NONE

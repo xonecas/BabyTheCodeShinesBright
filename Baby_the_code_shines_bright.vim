@@ -101,6 +101,7 @@ hi javaScriptFunction  guifg=NONE guibg=NONE gui=NONE
 hi javaScriptRailsFunction  guifg=#de99bf ctermfg=175  guibg=NONE gui=NONE
 hi javaScriptBraces  guifg=NONE guibg=NONE gui=NONE
 hi javaScriptNumber  guifg=#bff294 ctermfg=156  guibg=NONE gui=NONE
+hi javaScriptRegexpString guifg=#F9EE99 ctermfg=228 guibg=NONE gui=NONE
 
 
 hi yamlKey  guifg=#d99ed1 ctermfg=182  guibg=NONE gui=NONE
